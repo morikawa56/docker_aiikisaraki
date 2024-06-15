@@ -1,1 +1,4 @@
 19970688/nastools-bt:latest
+johngong/qbittorrent
+oldiy/transmission-twc
+herberthe0229/iptv-sources:latest
