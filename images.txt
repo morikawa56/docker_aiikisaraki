@@ -1,1 +1,1 @@
-helloz/transmission:latest
+ogarcia/archlinux:latest
