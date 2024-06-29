@@ -1,1 +1,1 @@
-ogarcia/archlinux:latest
+ossrs/srs:v4.0.85
