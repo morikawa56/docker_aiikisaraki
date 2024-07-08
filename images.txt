@@ -1,1 +1,1 @@
-linuxserver/jackett:latest
+mongodb/mongodb-community-server:latest
