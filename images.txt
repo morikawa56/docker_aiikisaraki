@@ -1,1 +1,1 @@
-jxxghp/moviepilot:latest
+openjdk:17
