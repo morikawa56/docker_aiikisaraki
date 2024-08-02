@@ -1,1 +1,1 @@
-sameersbn/bind:latest
+sameersbn/bind:_
