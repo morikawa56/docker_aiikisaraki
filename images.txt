@@ -1,1 +1,1 @@
-mongo:latest
+sameersbn/bind:latest
