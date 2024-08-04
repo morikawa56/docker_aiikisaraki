@@ -1,1 +1,1 @@
-sameersbn/bind:_
+nyanmisaka/jellyfin:latest
