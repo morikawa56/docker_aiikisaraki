@@ -1,1 +1,1 @@
-amilys/embyserver:latest
+ghcr.io/usememos/memos:latest
