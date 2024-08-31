@@ -1,1 +1,1 @@
-elestio/memos:latest
+cleverest/docker-proxy:latest
