@@ -1,1 +1,1 @@
-hub.openeeds.com/cleverest/crproxy:latest
+cleverest/crproxy:latest
