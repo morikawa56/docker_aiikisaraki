@@ -1,1 +1,1 @@
-cleverest/crproxy:latest
+ghcr.io/kingmo888/rustdesk-api-server:latest
