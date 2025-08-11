@@ -1,1 +1,1 @@
-ghcr.io/sd-webui/stable-diffusion-webui:latest
+elasticsearch:7.10.2
